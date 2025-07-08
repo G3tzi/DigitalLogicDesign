@@ -4,7 +4,7 @@ This repository contains the final submission for a university project in **Digi
 
 ## 📘 Project Overview
 
-The goal of the project was to design and implement a digital system on an **FPGA** to solve a specific problem provided as part of a university assignment. The problem description and the detailed design process are documented in the report included in this repository.
+The goal of the project was to design and implement a digital system on an **FPGA** to solve a specific problem provided as part of a university assignment. The problem description can be founde in the **brief.pdf** and the detailed design process is documented in the **report.pdf** included in this repository.
 
 ## 📁 Repository Structure
 
@@ -36,4 +36,4 @@ To simulate or synthesize the project:
 ## 📚 Notes
 
 - This repository is intended to serve as a record of the design and submission process.
-- The `report.pdf` file essentially serves as an extended README with in-depth technical details.
+- The `report.pdf` and `brief.pdf` files essentially serve as an extended README with in-depth technical details.
